@@ -1,0 +1,50 @@
+#logo3{
+    display:inline-block;
+    float:left;
+    border: 10%;
+    border-color: darkcyan;
+}
+#logo3.1{
+    display: inline-block;
+    float:left;
+}
+#tituloini{
+    background-color: darkcyan;
+    color:aliceblue;
+    display: inline-block;
+    text-align:inherit;
+}
+#logo4{
+    display: inline-block;
+    width: 15px;
+}
+#ppag{
+    text-align: center;
+    font-size: 18px;
+    border-color:cornsilk;
+}
+#lista{
+    text-align: left;
+}
+#p1{
+    font-size: 1.8em;
+    text-align: justify;
+}
+#p2{
+    font-size: 1.5em;
+}
+h4{
+    color: darkblue;
+    font-size: 1.5em;
+}
+main{
+    width: 50%;
+    height: 800px;
+}
+iframe{
+    width: 200%;
+    height: 570px;
+}
+ul{
+    text-align: none;
+}

@@ -1,0 +1,24 @@
+h1{
+    background-color: cadetblue;
+    text-align: center;
+    color: azure;
+    font-family: fantasy;
+    font-size: 3.5em;
+}
+h3{
+    background-color: dodgerblue;
+    text-align: center;
+    color: aliceblue;
+    font-size: 1.5em;
+}
+p{
+    text-align:inherit;
+    font-size: 1.2em;
+}
+img{
+    width: 35%;
+}
+iframe{
+    width: 40%;
+    height: 300px;
+}

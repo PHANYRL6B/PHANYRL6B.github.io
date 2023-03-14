@@ -1,0 +1,42 @@
+
+#logo7{
+    display: inline-block;
+    width: 15%;
+    float: left;
+    margin: 5%;
+}
+#tituloini{
+    color:azure;
+    background-color:cadetblue;
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+}
+#logo8{
+    display: inline-block;
+    width: 30%;
+    float: right;
+    margin: 5%;
+}
+#caps{
+    width: 378px;
+    height: 535px;
+    border: 8px blue;
+    border-style: double;
+    text-align: center;
+}
+#p1{
+    width: 60%;
+}
+.palabra{
+    color: cadetblue;
+    font-weight: bolder;
+}
+a{
+    color: darkcyan;
+}
+figcaption{
+    background-color: cadetblue;
+    color: aliceblue;
+    text-align: center;
+}

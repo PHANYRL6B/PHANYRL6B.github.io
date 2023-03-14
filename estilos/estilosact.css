@@ -1,0 +1,36 @@
+html{
+    text-align: center;
+}
+#rec{
+    width: 30%;
+    border: 8px cadetblue;
+    border-style: dashed;
+}
+.logo5{
+    width: 100%;
+    height: 250px;
+    border: 8px blue;
+    border-style:ridge;
+    text-align: center;
+}
+.logo6{
+    display: inline-block;
+    text-align: center;
+}
+figcaption{
+    background-color: cadetblue;
+    color: blue;
+}
+#p1{
+    text-align: justify;
+    color: dodgerblue;
+    width:95%;
+    background-color:aliceblue;
+    border: 10px dodgerblue;
+    border-style: solid;
+    float: left;
+    font-size: 1.5em;
+}
+h1{
+    background-color: cadetblue
+}
